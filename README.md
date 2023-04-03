@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# blackdiamond
+Laravel project developed during 4th trimester's classes using the lective-project's DB BlackDiamond
+Sorry but the LogIn isn't working
+
+Proyecto hecho en Laravel durante las clases del 4to trimestre usando la base de datos del proyecto lectivo BlackDiamond
+Disculpas de antemano, el login no funciona, me gustaria que me hiciera saber el porqué en los comentarios, gracias.
+>>>>>>> ae1c13ee635679939bfeb9de6c6fe33143410920
